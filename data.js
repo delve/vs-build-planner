@@ -3642,6 +3642,17 @@ window.vs = {
         "scan"
       ],
       "special": true
+    },
+    {
+      "id": "adv2ch1",
+      "name": "Adv2 Deep Lore",
+      "itemIds": [
+        "bible",
+        "candle"
+      ],
+      "description": "...",
+      "mods": {},
+      "hyper": {}
     }
   ]
 }
