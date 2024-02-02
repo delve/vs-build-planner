@@ -719,6 +719,7 @@
             arcana.type = 'arcana'
             arcana.roman = toRoman(+arcana.id.substring(6))
           }
+          // TODO: fix this
           for (const stage of stages) {
             stage.type = 'stage'
             if (stage.id !== 'bridge' && stage.id !== 'whiteout' && stage.id !== 'bats' && stage.id !== 'astral') {
